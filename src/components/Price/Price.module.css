@@ -1,0 +1,113 @@
+.buttons {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 60px;
+}
+
+.button {
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  line-height: 40px;
+  background-color: transparent;
+  border: 1px solid transparent;
+  outline: none;
+  color: var(--color-w);
+  padding-bottom: 10px;
+  font-family: var(--font-family-sans);
+  text-decoration: none;
+  cursor: pointer;
+  /* Убираем любые эффекты при наведении, чтобы ничего не дергалось */
+  transition: none;
+}
+
+.buttonActive {
+  color: rgba(245, 247, 250, 0.4);
+  border-bottom-color: rgba(245, 247, 250, 0.4);
+}
+
+.buttonInactive {
+  /* cursor: pointer; */
+}
+
+
+.list {
+
+}
+
+.list__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  line-height: 35px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  text-transform: lowercase;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.005); 
+  padding-bottom: 2px;
+  padding-top: 2px;
+}
+
+.list__item:nth-child(even) {
+  /* color: rgba(245, 247, 250, 0.4); */
+}
+
+.title {
+  
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.price {
+  width: 100px;
+  font-weight: 300;
+}
+
+.time {
+  width: 120px;
+  font-weight: 300;
+}
+
+@media (max-width: 980px) {
+  .list__item {
+    font-size: 16px;
+  }
+
+  .description {
+    gap: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .list__item {
+    line-height: 23px;
+    padding: 8px 0;
+    font-size: 15px;
+  }
+
+  .description {
+    padding-left: 100px;
+  }
+
+  .price {
+    width: 70px;
+  }
+
+  .time {
+    width: 70px;
+  }
+}
+
+@media (max-width: 576px) {
+  .description {
+    padding-left: 50px;
+  }
+}

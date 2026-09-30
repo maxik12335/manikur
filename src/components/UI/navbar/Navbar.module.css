@@ -1,0 +1,156 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 50px;
+  z-index: 1;
+}
+
+.navbar__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 30px;
+  line-height: 50px;
+  font-weight: 400;
+  color: #F5F7FA;
+}
+
+.navbar__links {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+}
+
+.navbar__link {
+  font-weight: 300;
+  font-size: 18px;
+  color: #F5F7FA;
+  width: 100px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.burger {
+  display: none;
+}
+
+.burger span {
+  width: 24px;
+  height: 3px;
+  background-color: var(--color-w);
+}
+
+@media (max-width: 768px) {
+  .burger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    gap: 4px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+  }
+
+  .burger span {
+    width: 24px;
+    height: 3px;
+    background-color: var(--color-w);
+    display: block;
+  }
+
+  .navbar__links {
+    display: none;
+  }
+
+  .burger__menu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-b);
+    z-index: 2;
+  }
+
+  .container {
+    margin: 0 auto;
+    width: 540px;
+    height: 100%;
+  }
+
+  .burger__menu .navbar__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .menu_box {
+    width: 540px;
+    position: fixed;
+    top: 0;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .burger_close {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    position: relative;
+    border: none;
+  }
+
+  .burger_close span {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: var(--color-w);
+  }
+
+  .burger_close span:first-child {
+    transform: rotate(45deg);
+  }
+
+  .burger_close span:last-child {
+    transform: rotate(-45deg);
+  }
+
+  .navbar__links_full {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar__link_full {
+    font-size: 36px;
+    padding: 30px;
+    color: var(--color-w);
+    text-decoration: none;
+    letter-spacing: 10px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.04);
+    width: 100%;
+    text-align: center;
+    font-weight: 300;
+  }
+}
+
+@media (max-width: 576px) {
+  .menu_box {
+    width: 100%;
+    padding: 0 10px;
+  }
+}

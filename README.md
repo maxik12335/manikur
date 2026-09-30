@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+Список того что работает или гипотезы (то что работает по опыту других):
+- расслабиться и ко всему относиться с легкостью. Как легкой прогулке. Выйдет не выйдет - до пизды. Ты просто гуляешь и тебе должно быть безразличен результат. ТОгда и только тогда он будет твоим с максимальной вероятоностью
+вспомни сколько раз ты хотел, старался, пытался, мучался и ничего не выходило
+вспомин сколько раз ты говорил похуй, пошло всё на хуй, а попробую как от пизды и выходило охереть как круто и просто, когда просто шел а дорога сама тебя вела
+- дневники. Благодарности, успехов, достижений, любви к себе
+- поймать себя на трудости, тревоге, событии и поменять отношение. Не заболел, а надо отдохнуть. Не умер кто-то, а бог забрал для своих целей. Не изменила, а получил опыт с кем не стоит заводить отношения. Не ищется работа, а нахуй она тебе нужна. Не с кем пообщаться, а хочется, тебе надо побыть одному и расслабиться
+- в любой сложной ситуации меняй её на легкую. Не понимаю, либо разберись по другому и пойми, либо тебе это нахер не надо понимать. Просто делай то что треубется и не думай
+- силовые помогают ясности, энрегии, уверенности, ощущениям
+- делать, не думая помогает. Вот думаешь ... не думай. Делай ! Надо научиться делать сразу, быстро и без сомнений и раздумий. Обычно затягиваешь, ленишься, а надо просто подумать над входом. Где тот 1 шаг, где твоя лень перестает говорить сложно и мозг начинает желать действие. Вот с этого и начни, а там дальше энерция поможет. Но надо научиться делать сразу. Можешь вести дневник ленивых прорывов. Мне кажется будет интересно
+- медитация, дыхание, душ, прогулка - помогают выкинуть лишнее с головы, дают ощущение чистоты. Чем чаще тем лучше. Важно применять особено в моменты затухания или когда мало что понимаешь
+- детокс. Питание, мысли, игры, соц сети, люди - убрать нахрен всё и отдохни нормально. Да будет скучно, да будет тяжело. но это отдых от вечной гонки. вспомни лагуну. Ты не думал, ты был в моменте, ты отдыха бл как никогда. А не было всего лишь соц сетей перед сном. Да и засыпал ты легко
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+КЛЮЧЕВАЯ ЗАДАЧА - ДЕЙСТВИЕ. НАУЧИСЬ ДЕЛАТЬ ! ЗАПИШИ ВСЕ ВЫРАИНТАЫ КОГДА ТЫ ДЕЛАЛ НЕ ДУМАЛ, В ПОТОКЕ ВСЁ БЫЛО И РЕАЛЬНО ВЫХОДИЛО.
+ВЫХОДИЛО ТАК, ЧТО ТЫ НЕ ЖДАЛ, НЕ ПЛАНИРОВАЛ, А ПРОСТО ПОСТАВИЛ ЦЕЛЬ, СОЗДАЛ НАМЕРЕНИЕ А ДАЛЬШЕ ДАЛ ВОЛЮ ЖИЗНИ САМОЙ ВСЁ СДЕЛАТЬ. ТУТ ТАКЖЕ. НЕ ЗНАЕШЬ ЧТО ХОЧЕШЬ ... ДАЙ УСТНОВКУ ХОЧУ УЗНАТЬ И ДЕЛАЙ ЧТО ОБЫЧНО ДЕЛАЕШЬ. ОТВЕТ ПРИДЕТ САМ. ОТ ТОГО ЧТО ТЫ БУДЕШЬ ПЫТАТЬСЯ НИЧЕГО ХОРОШЕГО НЕ ВЫЙДЕТ. ТЫ УЖЕ ПОЙМАЛ ЗНАК И ЭТО НЕ ТО ЧТОБЫ НЕ QA И НЕ ТЕХ ПОДДЕРЖКА, ЭТО ВОЗМОЖНОСТЬ СКАЗАТЬ ПРИВЕТ И ПОЛУЧИТЬ ВОЗМОЖНОСТЬ ОТ ЧЕЛОВЕКА. ТВОЙ ЯЗЫК ТВОЙ ЛУЧШИЙ ДРУГ. НО ДОБАВЬ ДЕЙСТВИЕ РАДИ БОГИ !!! НЕ ЛЕНИСЬ БОЛЬШЕ. ДЕЛАЙ ВСЁ СРАЗУ МАКС И ВСЁ У ТЕБЯ БУДЕТ
