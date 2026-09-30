@@ -5,8 +5,7 @@ node_modules/
 yarn-error.log
 
 # Сборка (для GitHub Pages мы её добавим отдельно — читай ниже)
-# /build/
-
+/build/
 
 # IDE
 .idea/
