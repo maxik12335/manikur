@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/manikur/static/css/main.e8d7a5d6.css",
+    "main.css": "/manikur/static/css/main.5a8629a1.css",
     "main.js": "/manikur/static/js/main.d9e1d9bd.js",
     "static/media/portfolio_10.jpg": "/manikur/static/media/portfolio_10.24ca8f9b3eb6b244548e.jpg",
     "static/media/portfolio_5.jpg": "/manikur/static/media/portfolio_5.69f587f8d8fdf15edc0c.jpg",
@@ -29,11 +29,11 @@
     "static/media/Manrope-ExtraBold.woff2": "/manikur/static/media/Manrope-ExtraBold.fcdce68da8454db41911.woff2",
     "static/media/Manrope-ExtraLight.woff2": "/manikur/static/media/Manrope-ExtraLight.f331c9c53ad479435968.woff2",
     "index.html": "/manikur/index.html",
-    "main.e8d7a5d6.css.map": "/manikur/static/css/main.e8d7a5d6.css.map",
+    "main.5a8629a1.css.map": "/manikur/static/css/main.5a8629a1.css.map",
     "main.d9e1d9bd.js.map": "/manikur/static/js/main.d9e1d9bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8d7a5d6.css",
+    "static/css/main.5a8629a1.css",
     "static/js/main.d9e1d9bd.js"
   ]
 }
