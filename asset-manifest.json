@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/manikur/static/css/main.b4070f9f.css",
-    "main.js": "/manikur/static/js/main.d9e1d9bd.js",
-    "static/media/portfolio_10.jpg": "/manikur/static/media/portfolio_10.24ca8f9b3eb6b244548e.jpg",
+    "main.css": "/manikur/static/css/main.7a5a34e7.css",
+    "main.js": "/manikur/static/js/main.b7e52980.js",
+    "static/media/portfolio_2.jpg": "/manikur/static/media/portfolio_2.24ca8f9b3eb6b244548e.jpg",
     "static/media/portfolio_5.jpg": "/manikur/static/media/portfolio_5.69f587f8d8fdf15edc0c.jpg",
-    "static/media/portfolio_11.jpg": "/manikur/static/media/portfolio_11.cd0cfb5e73f1874c938a.jpg",
-    "static/media/portfolio_9.jpg": "/manikur/static/media/portfolio_9.28ef9e0ba7541a73cb1a.jpg",
+    "static/media/portfolio_3.jpg": "/manikur/static/media/portfolio_3.cd0cfb5e73f1874c938a.jpg",
+    "static/media/portfolio_1.jpg": "/manikur/static/media/portfolio_1.28ef9e0ba7541a73cb1a.jpg",
     "static/media/portfolio_7.jpg": "/manikur/static/media/portfolio_7.d33410dd16137e5f5d7f.jpg",
     "static/media/portfolio_8.jpg": "/manikur/static/media/portfolio_8.ae2368b604b28a478693.jpg",
     "static/media/portfolio_6.jpg": "/manikur/static/media/portfolio_6.bbb946ac7228b2ea72eb.jpg",
@@ -18,9 +18,9 @@
     "static/media/Manrope-Light.ttf": "/manikur/static/media/Manrope-Light.8e69558513c71d8098f1.ttf",
     "static/media/Manrope-ExtraLight.ttf": "/manikur/static/media/Manrope-ExtraLight.6b8aa569524907093d27.ttf",
     "static/media/map.jpg": "/manikur/static/media/map.8db99d501ee4ab14a74c.jpg",
-    "static/media/portfolio_1.jpg": "/manikur/static/media/portfolio_1.c76a82a45a3def6b95e1.jpg",
-    "static/media/portfolio_2.jpg": "/manikur/static/media/portfolio_2.82e8eb8dc6ad71197d6f.jpg",
-    "static/media/portfolio_3.jpg": "/manikur/static/media/portfolio_3.8291d06eea560e5a7920.jpg",
+    "static/media/portfolio_9.jpg": "/manikur/static/media/portfolio_9.c76a82a45a3def6b95e1.jpg",
+    "static/media/portfolio_10.jpg": "/manikur/static/media/portfolio_10.82e8eb8dc6ad71197d6f.jpg",
+    "static/media/portfolio_11.jpg": "/manikur/static/media/portfolio_11.8291d06eea560e5a7920.jpg",
     "static/media/Manrope-Bold.woff2": "/manikur/static/media/Manrope-Bold.e113f27c9464641c864c.woff2",
     "static/media/Manrope-Light.woff2": "/manikur/static/media/Manrope-Light.e05ab9f8514fc082610b.woff2",
     "static/media/Manrope-SemiBold.woff2": "/manikur/static/media/Manrope-SemiBold.f2e25ca8ab8e3f0ac1dd.woff2",
@@ -29,11 +29,11 @@
     "static/media/Manrope-ExtraBold.woff2": "/manikur/static/media/Manrope-ExtraBold.fcdce68da8454db41911.woff2",
     "static/media/Manrope-ExtraLight.woff2": "/manikur/static/media/Manrope-ExtraLight.f331c9c53ad479435968.woff2",
     "index.html": "/manikur/index.html",
-    "main.b4070f9f.css.map": "/manikur/static/css/main.b4070f9f.css.map",
-    "main.d9e1d9bd.js.map": "/manikur/static/js/main.d9e1d9bd.js.map"
+    "main.7a5a34e7.css.map": "/manikur/static/css/main.7a5a34e7.css.map",
+    "main.b7e52980.js.map": "/manikur/static/js/main.b7e52980.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4070f9f.css",
-    "static/js/main.d9e1d9bd.js"
+    "static/css/main.7a5a34e7.css",
+    "static/js/main.b7e52980.js"
   ]
 }
