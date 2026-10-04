@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/manikur/static/css/main.7a5a34e7.css",
-    "main.js": "/manikur/static/js/main.b7e52980.js",
+    "main.css": "/manikur/static/css/main.93eb292e.css",
+    "main.js": "/manikur/static/js/main.7c2dbabe.js",
     "static/media/portfolio_2.jpg": "/manikur/static/media/portfolio_2.24ca8f9b3eb6b244548e.jpg",
     "static/media/portfolio_5.jpg": "/manikur/static/media/portfolio_5.69f587f8d8fdf15edc0c.jpg",
     "static/media/portfolio_3.jpg": "/manikur/static/media/portfolio_3.cd0cfb5e73f1874c938a.jpg",
@@ -29,11 +29,11 @@
     "static/media/Manrope-ExtraBold.woff2": "/manikur/static/media/Manrope-ExtraBold.fcdce68da8454db41911.woff2",
     "static/media/Manrope-ExtraLight.woff2": "/manikur/static/media/Manrope-ExtraLight.f331c9c53ad479435968.woff2",
     "index.html": "/manikur/index.html",
-    "main.7a5a34e7.css.map": "/manikur/static/css/main.7a5a34e7.css.map",
-    "main.b7e52980.js.map": "/manikur/static/js/main.b7e52980.js.map"
+    "main.93eb292e.css.map": "/manikur/static/css/main.93eb292e.css.map",
+    "main.7c2dbabe.js.map": "/manikur/static/js/main.7c2dbabe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a5a34e7.css",
-    "static/js/main.b7e52980.js"
+    "static/css/main.93eb292e.css",
+    "static/js/main.7c2dbabe.js"
   ]
 }
